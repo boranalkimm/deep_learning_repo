@@ -1,31 +1,10 @@
-# This is a large heading
+# My Deep Learning Repo
 
-## This is a smaller heading
+## Consists of random deep learning projects.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+**Currently** not so filled. But I *hope* it will be filled.
 
-- This is
-- an unordered
-- list
+I invite all of you to this [site](necmierdogan.com)
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-$\textbf{Does this work}$ \
-$\text{Yes, it works, thankfully.}$ \
-$\LaTeX \text{is the thing.}$
+If the website is down, all I wanted you to see was the face of this man,
+![necmi_erdogan](https://github.com/boranalkimm/deep_learning_repo/blob/master/necmi_erdogan.jpeg)
